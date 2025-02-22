@@ -18,7 +18,7 @@ websockets>=12.0
 # Add Silero VAD requirements
 omegaconf>=2.3.0
 tqdm>=4.65.0
-
+slowapi
 # Add WebRTC dependencies
 aiortc>=1.5.0
 av>=10.0.0
